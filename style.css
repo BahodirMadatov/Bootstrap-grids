@@ -1,0 +1,28 @@
+.container {
+    max-width: 1440px;
+    width: 100%;   
+    margin: 90px auto;
+}
+
+
+.custom-box {
+    height: 235px;
+    margin-bottom: 30px;
+}
+
+
+/* .col-6-box {
+    height: 235px;
+    flex: 0 0 calc((100% - 30px) / 2);
+
+}
+
+.col-4-box {
+    height: 235px;
+    flex: 0 0 calc((100% - 30px) / 3);
+}
+
+.col-3-box {
+    height: 235px;
+    flex: 0 0 calc((100% - 30px) / 4); 
+} */
